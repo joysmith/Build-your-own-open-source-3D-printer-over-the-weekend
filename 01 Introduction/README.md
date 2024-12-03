@@ -63,6 +63,10 @@ Notes:
 
 ### 3. 3D Printing Workflow<a id='3'></a>
 
+1. 3D modelling
+1. Export as .obj/.stl file
+1. Load in the printer software
+
 ### 4. Overview of the i3 Berlin 3D Printer Design<a id='4'></a>
 
 ### 5. Tools and Parts<a id='5'></a>
