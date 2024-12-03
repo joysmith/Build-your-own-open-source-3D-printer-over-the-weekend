@@ -65,7 +65,12 @@ Notes:
 
 1. 3D modelling
 1. Export as .obj/.stl file
-1. Load in the printer software
+1. Load in the 3D-printer software
+1. Perform some setting or fine tuning
+1. Load the g-code to sd card
+1. Put sd-card inside 3D-printer
+1. Print the model
+1. After cool down remove it from print plate
 
 ### 4. Overview of the i3 Berlin 3D Printer Design<a id='4'></a>
 
