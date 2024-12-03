@@ -56,6 +56,11 @@
 
 ### 2. How a 3D Printer Works<a id='2'></a>
 
+Notes:
+
+- The Extruder move left & right
+- The platform move front & back
+
 ### 3. 3D Printing Workflow<a id='3'></a>
 
 ### 4. Overview of the i3 Berlin 3D Printer Design<a id='4'></a>
