@@ -8,6 +8,8 @@
 
 ### 1. Introduction to RepRap<a id='1'></a>
 
+- [Link and reference](https://github.com/joysmith/Build-your-own-open-source-3D-printer-over-the-weekend/blob/main/01%20Introduction/resources/Links%20and%20References.doc)
+
 ### 2. How a 3D Printer Works<a id='2'></a>
 
 ### 3. 3D Printing Workflow<a id='3'></a>
