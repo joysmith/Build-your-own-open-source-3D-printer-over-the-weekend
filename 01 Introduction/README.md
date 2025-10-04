@@ -113,6 +113,49 @@ Notes:
 
 ### 3. 3D Printing Workflow<a id='3'></a>
 
+
+<img src="assets/images/003/01.png" width="700">
+
+<img src="assets/images/003/02.png" width="700">
+
+<img src="assets/images/003/03.png" width="700">
+
+<img src="assets/images/003/04.png" width="700">
+
+<img src="assets/images/003/05.png" width="700">
+
+<img src="assets/images/003/06.png" width="700">
+
+<img src="assets/images/003/07.png" width="700">
+
+<img src="assets/images/003/08.png" width="700">
+
+<img src="assets/images/003/09.png" width="700">
+
+<img src="assets/images/003/10.png" width="700">
+
+<img src="assets/images/003/11.png" width="700">
+
+<img src="assets/images/003/12.png" width="700">
+
+<img src="assets/images/003/13.png" width="700">
+
+<img src="assets/images/003/14.png" width="700">
+
+<img src="assets/images/003/15.png" width="700">
+
+<img src="assets/images/003/16.png" width="700">
+
+<img src="assets/images/003/17.png" width="700">
+
+<img src="assets/images/003/18.png" width="700">
+
+<img src="assets/images/003/19.png" width="700">
+
+<img src="assets/images/003/20.png" width="700">
+
+
+
 1. 3D modelling
 1. Export as .obj/.stl file
 1. Load in the 3D-printer software
@@ -124,4 +167,97 @@ Notes:
 
 ### 4. Overview of the i3 Berlin 3D Printer Design<a id='4'></a>
 
+
+<img src="assets/images/004/01.png" width="700">
+
+<img src="assets/images/004/02.png" width="700">
+
+<img src="assets/images/004/03.png" width="700">
+
+<img src="assets/images/004/04.png" width="700">
+
+<img src="assets/images/004/05.png" width="700">
+
+<img src="assets/images/004/06.png" width="700">
+
+<img src="assets/images/004/07.png" width="700">
+
+<img src="assets/images/004/08.png" width="700">
+
+<img src="assets/images/004/09.png" width="700">
+
+<img src="assets/images/004/10.png" width="700">
+
+<img src="assets/images/004/11.png" width="700">
+
+<img src="assets/images/004/12.png" width="700">
+
+<img src="assets/images/004/13.png" width="700">
+
+<img src="assets/images/004/14.png" width="700">
+
+<img src="assets/images/004/15.png" width="700">
+
+<img src="assets/images/004/16.png" width="700">
+
 ### 5. Tools and Parts<a id='5'></a>
+
+
+<img src="assets/images/005/01.png" width="700">
+
+<img src="assets/images/005/02.png" width="700">
+
+<img src="assets/images/005/03.png" width="700">
+
+<img src="assets/images/005/04.png" width="700">
+
+<img src="assets/images/005/05.png" width="700">
+
+<img src="assets/images/005/06.png" width="700">
+
+<img src="assets/images/005/07.png" width="700">
+
+<img src="assets/images/005/08.png" width="700">
+
+<img src="assets/images/005/09.png" width="700">
+
+<img src="assets/images/005/10.png" width="700">
+
+<img src="assets/images/005/11.png" width="700">
+
+<img src="assets/images/005/12.png" width="700">
+
+<img src="assets/images/005/13.png" width="700">
+
+<img src="assets/images/005/14.png" width="700">
+
+<img src="assets/images/005/15.png" width="700">
+
+<img src="assets/images/005/16.png" width="700">
+
+<img src="assets/images/005/17.png" width="700">
+
+<img src="assets/images/005/18.png" width="700">
+
+<img src="assets/images/005/19.png" width="700">
+
+<img src="assets/images/005/20.png" width="700">
+
+<img src="assets/images/005/30.png" width="700">
+
+<img src="assets/images/005/3.png" width="700">
+
+<img src="assets/images/005/32.png" width="700">
+
+<img src="assets/images/005/33.png" width="700">
+
+<img src="assets/images/005/34.png" width="700">
+
+<img src="assets/images/005/35.png" width="700">
+
+<img src="assets/images/005/36.png" width="700">
+
+<img src="assets/images/005/37.png" width="700">
+
+<img src="assets/images/005/38.png" width="700">
+
