@@ -89,6 +89,23 @@
 
 ### 2. How a 3D Printer Works<a id='2'></a>
 
+<img src="assets/images/002/01.png" width="700">
+
+<img src="assets/images/002/02.png" width="700">
+
+<img src="assets/images/002/03.png" width="700">
+
+<img src="assets/images/002/04.png" width="700">
+
+<img src="assets/images/002/05.png" width="700">
+
+<img src="assets/images/002/06.png" width="700">
+
+<img src="assets/images/002/07.png" width="700">
+
+<img src="assets/images/002/08.png" width="700">
+
+
 Notes:
 
 - The Extruder move left & right
