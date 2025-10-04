@@ -119,6 +119,98 @@
 
 ### 16. Wiring the Z-unit<a id='16'></a>
 
+<img src="assets/images/016/01.png" width="700">
+
+<img src="assets/images/016/02.png" width="700">
+
+<img src="assets/images/016/03.png" width="700">
+
+<img src="assets/images/016/04.png" width="700">
+
+<img src="assets/images/016/05.png" width="700">
+
+<img src="assets/images/016/06.png" width="700">
+
+<img src="assets/images/016/07.png" width="700">
+
+<img src="assets/images/016/08.png" width="700">
+
+<img src="assets/images/016/09.png" width="700">
+
+<img src="assets/images/016/10.png" width="700">
+
+<img src="assets/images/016/11.png" width="700">
+
+<img src="assets/images/016/12.png" width="700">
+
+<img src="assets/images/016/13.png" width="700">
+
+<img src="assets/images/016/14.png" width="700">
+
+<img src="assets/images/016/15.png" width="700">
+
+<img src="assets/images/016/16.png" width="700">
+
 ### 17. Wiring the X-unit and the Extruder<a id='17'></a>
 
+<img src="assets/images/016/01.png" width="700">
+
+<img src="assets/images/016/02.png" width="700">
+
+<img src="assets/images/016/03.png" width="700">
+
+<img src="assets/images/016/04.png" width="700">
+
+<img src="assets/images/016/05.png" width="700">
+
+<img src="assets/images/016/06.png" width="700">
+
+<img src="assets/images/016/07.png" width="700">
+
+<img src="assets/images/016/08.png" width="700">
+
+<img src="assets/images/016/09.png" width="700">
+
+<img src="assets/images/016/10.png" width="700">
+
+<img src="assets/images/016/11.png" width="700">
+
+<img src="assets/images/016/12.png" width="700">
+
+<img src="assets/images/016/13.png" width="700">
+
+<img src="assets/images/016/14.png" width="700">
+
+<img src="assets/images/016/15.png" width="700">
+
+<img src="assets/images/016/16.png" width="700">
+
+<img src="assets/images/016/17.png" width="700">
+
+<img src="assets/images/016/18.png" width="700">
+
+<img src="assets/images/016/19.png" width="700">
+
 ### 18. Wiring the HeatBed<a id='18'></a>
+
+<img src="assets/images/018/01.png" width="700">
+
+<img src="assets/images/018/02.png" width="700">
+
+<img src="assets/images/018/03.png" width="700">
+
+<img src="assets/images/018/04.png" width="700">
+
+<img src="assets/images/018/05.png" width="700">
+
+<img src="assets/images/018/06.png" width="700">
+
+<img src="assets/images/018/07.png" width="700">
+
+<img src="assets/images/018/08.png" width="700">
+
+<img src="assets/images/018/09.png" width="700">
+
+<img src="assets/images/018/10.png" width="700">
+
+<img src="assets/images/018/11.png" width="700">
